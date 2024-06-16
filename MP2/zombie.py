@@ -1,6 +1,4 @@
 import undead as un
-
-
 class Zombie(un):
     def __init__(self, name):
         super().__init__()
